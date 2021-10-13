@@ -1,0 +1,28 @@
+{
+  "name": "day-drop",
+  "version": "1.0.0",
+  "description": "分享一些常用实用的小知识",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuanXuSong/DayDrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuanXuSong/DayDrop/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    }
+  },
+  "homepage": "https://github.com/RuanXuSong/DayDrop#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-customizable": "^6.3.0"
+  }
+}
